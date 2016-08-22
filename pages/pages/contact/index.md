@@ -1,15 +1,64 @@
 ---
-title: "Contact me"
+title: "Боғланиш"
 layout: page
 path: "/contact"
 ---
 
-Lorem ipsum dolor sit amet, in summo tamquam mea, gubergren laboramus torquatos usu ne, magna rationibus sit eu. Id constituam honestatis pri, iracundia adversarium vel te. Per ferri aliquam impedit ex. Ei nec elitr nonumy vidisse, et qui fierent maluisset sadipscing, tincidunt vituperata delicatissimi te quo.
+Боғланиш учун манзил: community@node.uz
 
-Te est iisque volutpat, tacimates dissentias no ius. Ea eam quodsi omnium deseruisse, affert evertitur sententiae sea ei. Dicit minimum at quo, nulla ludus vivendum cu mea, audire reformidans mei id. In his deserunt tincidunt, cu stet soleat libris sit, et modus illum sea. Id usu ubique volumus deterruisset, mea ut viderer reformidans complectitur. Ignota meliore eu eam.
+PGP Fingerprint: `1E35 5C22 1A69 8722 4F56  D546 A65B E683 BE01 F83A`
 
-Vix mazim ornatus in, populo causae mandamus cu mei, ut malis novum postulant duo. Pro tantas consulatu in, ei nullam labore detraxit sed. Ne nam wisi percipitur. Ea sint nonumy pri. Id mel graeco latine tacimates, eum no habeo laudem iriure, sea putent tritani accommodare id. Pro no rebum decore eripuit.
+PGP Public Key:
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-Alia albucius pro ut. Mea ut ipsum dolor. Qui ea volumus blandit iudicabit, ad sed timeam nominati posidonium, mel ei meis ocurreret mnesarchum. Mei elitr senserit voluptatibus ad, te quod vivendo vix. Vis no perfecto abhorreant, cu appellantur repudiandae mei, at vix mnesarchum honestatis disputationi.
-
-Omnium utamur detraxit te pro, affert nominati has ea. Delectus platonem ius et. Cibo aperiam denique an duo, illud laudem constituam quo id. Inani civibus pertinacia nam an. Luptatum instructior sed at, an elit accommodare sit, vix ne nulla soluta.
+mQINBFe6nzkBEAC3f46eZJ/S5dswHrQeALBXoGlxDzS6fnIcaQ4Kz+mEXTV5LFQm
+uelkLo052l6sQOEipIsABwAB5xl/nEP8F+aShfsPDaykyWOQM0KDWjhd5+wEOPnb
+Y7v0v+KNn+yRh8pdQLXTwO1zqNZBa0i1n3JiHzZP6YvdfS2sMCWGkwSG47t1PSuV
++kTjaJ+xeJe8Tqc0BvWYyx9b/nvn2I3SMW96esK2y0rinkFYZLwO9OkZ/r31ReVw
+8uDYoTZ6ABMJkA1YR5oj0TTvj8uFwjIT7hox9O1DQG2sanaVC1NiIXdiShxoz5Vc
+u8xZsMNqHQXMU3siRF63yeNqMxUDa6Kt4Yp+oU2M65zJaZiW3cPhv0/e+x7fr7vv
+z94zqyI2TOBGWVINyvRkxGJ5YkXZxHLy5b3tKV9bYWxmVLDO0LnjXuYpsxBj8p6D
+apnaFJMwhcapNrSEfP/N498BFHOeI53UkFbkPO4fOb97UxIK6AlYyMcScbWrVZ46
+r9krzy9bCrUnt9oPb82jNfhy2h7YrHfXOTW/W+FWkSnkhlhW84wTagtu2zW18xTB
+1zSMgJWTtUJY808F3/8aeUVUlNHCuyIFXv+mnlkvPkj0/SdwoalM9INoftOpY6wC
+D2H4loc2817iQPTm0M4RGQ8f0wBCy1CYaQd4oscJ4AQ5dtuQCP6Sfn2OfQARAQAB
+tDVOb2RlLnV6IChOb2RlLmpzIFV6YmVrIENvbW11bml0eSkgPGNvbW11bml0eUBu
+b2RlLnV6PokCPQQTAQoAJwUCV7qfOQIbAwUJB5NOgAULCQgHAwUVCgkICwUWAgMB
+AAIeAQIXgAAKCRCmW+aDvgH4OjjtD/9WNgSbMJAxDhMfgi+WgI1XAHg9qKsOu/9b
+q5M2INqX9nnMDZk23gnX3Lw9piLf4ipzVe7Me+m9TdwlRc2OwO1jecdPN+OzJv9N
+scgO2oQQgr0d8N3xX81T9nIZooi8ly4v7mGVHrBPCRS0NOEo3oVoda6RqCqLcvnn
+QZPb4QbKe3v85l7lZj7w6Dt0ALMqxcbka3O2zAtEijM2kp4r426epLsjTEfZzulu
+l5cXwgS5Dh65gJLe1/B048h7k9tbA/SaKY2j6xZFF2tVQ5VNDY3N5OX/H8Z35CFv
+F48CTKo7KrKg/OgW3GoLnFItYJjNLTERsQnGJ0MLQaQF6Ksw/0iVjBHy/vkCQtK2
+Yel6/UzpGgdnwQoqVXoyHZt5rjHdc3F20CinGR8tsX2Spba+2tAsRC0TDYu6Y4U2
+ixquNYSIMviAlgBnM9LJtw4GiwNmKUaUXnW9Ij3HpR5dF0V+gQ8kbAKDQG3tG8fi
+rXcl3nZv6xUh9VjZuYlWbnQknUBdiSoJrvkQvnHDNA+5zPhZAG2BTpRoiVPzpCTC
+5ecyW3mkVrTb53uLKZo0souSpOQUG0vx9x/Mw/HuNIjl0zJ7SpM5IR6nYby6GlXf
+eGwFQkJ1Xjwa9RxKdaytc+tG5M+RF68RtS4qZendMiku5I2AsrB/9XmKnaGN1uuI
+w/o1qHOm5rkCDQRXup85ARAAyXoINlkxmKLBcg73oEUkYSf3P1V3luzbvL5xgcEN
+U/2yfsoaohq08PMDd7sIk6ChT3p1VVr240PUHF29X+yPdBXqloGZ39FG1oVnCFHZ
+Jv1u5XFfR1ioZ9ll26mOjRxio2ute0RnZnK/4paht6T+qqsfZ9KMI6UxHPG31Ns0
+09MUVxj9vxlOQpDxQPsvw2zHXgj6VjtubpUQ/e2CI1OeJMO16/Yw7PEsyF4nefaz
+U8Rk2UEEY8F1H4mHfobI5ZHGwO9HBLTHkOwens3o1p6hxzKTG1GEfLcLSaR5t7xL
+G85LtS9qFptQ+hxD2JPgy6DGPevBmD9Yj6yNeBOv+o1voWufypK05MiO+kQG+HEM
+FiYr0V+eJ8Aij6uu+k91c3wP+w1RVg1jwNtvcYrkdh/o765GHmmORbs110w6SYa7
+G3B2NMYjp1M4DhG0IwsmxjaSRQEhoWD2uu8mE4gRPur6u3tV9qB3OEPGXWEiyfWt
+z588Obgdc/nif2vScU3JNtv8HmZFidPsQtvIBEzfeIcXU4iBSDeTO+tc6/qPVk8y
+isamdu7VKC9NBrZ293NSQGgtB8pc9H0ap8r9gLf2paiJT9/TzQtY4UUogSfTrfUQ
+cZJ+p14+ZmYT4E1TA1sGCOdlWSj6BVFp5A4lm5CsThW53B4z4Mn97WIDbaxgBYj0
+w40AEQEAAYkCJQQYAQoADwUCV7qfOQIbDAUJB5NOgAAKCRCmW+aDvgH4Ou26D/41
+Db/et2S775/ifS7+Ir4AdxS1o9xEaKeeXfN/by5Pqh0lDVnTP17sfYVIY4rey9Wr
+UMtrTKN8awRr29IsklNxLdnyPzSeG/izLsHr6H0whsmz+JaH5BUWIf1rsfJIBmnR
+T29nJBv8gGVMRlaUWTxfVJ5USMffUyYJryE82MMjMyVpU3D7hPEPnJtapY6I+34Y
+dzIYBTHynFEHeawQuR+H/xw9WEFPvnlpU9UIKkjLvPh0MwlfxgokiTmry6d53Nn3
+Vxyk6nYACtmDHq0GBxKRGphEQ8Q6ImwyMHkcNR+OJIhrNMwGsNHd8sJCn9d6Gz1G
+4VZGs+erhoPKqIM1ALm5Q0mtXNEShMy3A9bf2fg8O4OrnAue7OpSHSgfzUYt22P/
+Tll+S9V6yzit8VPccgVDZcCLJ9Em45Piy1ZVjh1fOPrLon9D38s/s1Y0l8G7weTo
+u4/XJhvj0kRKZtUWfv2n8V+g4XGKnFEtQB3zUto5P8I0vAFU3B9NvOCYcweRqDIp
+UeRTnCyyIHvp1YrhJnCNGOsw3ByXrnIgQoCL+Kjs366lLc2/Rrn+wEwY9EHO10d6
+F5Ye9JZRA1itM3hkPMG0wlU58aY+XH8fNfEGhnqQYMyrBPd+8qlKzIbSaONzkTuR
+vo+2QDXC9z9A0Ds2wm6eJBbNYxPOvtNGDxGfxXIcgA==
+=dUZF
+-----END PGP PUBLIC KEY BLOCK-----
+```

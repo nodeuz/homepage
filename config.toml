@@ -6,4 +6,4 @@ siteTwitterUrl = "https://twitter.com/nodeuz"
 siteGithubUrl = "https://github.com/nodeuz"
 siteEmailUrl = "mailto:community@node.uz"
 
-linkPrefix = "/node"
+linkPrefix = "//"
