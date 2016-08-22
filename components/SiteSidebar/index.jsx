@@ -5,7 +5,7 @@ import { config } from 'config'
 import SiteNav from '../SiteNav'
 import SiteLinks from '../SiteLinks'
 import './style.css'
-import profilePic from '../../pages/photo.jpg'
+import profilePic from '../../pages/logo.png'
 
 class SiteSidebar extends React.Component {
     render() {
@@ -40,7 +40,7 @@ class SiteSidebar extends React.Component {
                   <footer>
                     <SiteLinks {...this.props}/>
                     <p className='copyright'>
-                      &copy; All rights reserved.
+                      &copy; Баъзи ҳуқуқлар ҳимояланган.
                     </p>
                   </footer>
                 </div>

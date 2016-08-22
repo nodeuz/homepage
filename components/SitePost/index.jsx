@@ -15,7 +15,7 @@ class SitePost extends React.Component {
         const post = route.page.data
         const home = (
         <div>
-          <Link className='gohome' to={ prefixLink('/') }> All Articles
+          <Link className='gohome' to={ prefixLink('/') }> Барча мақолалар
           </Link>
         </div>
         )
@@ -37,7 +37,7 @@ class SitePost extends React.Component {
                   <p>
                     { config.siteDescr }
                     <a href={ config.twitter }>
-                      <br></br> <strong>{ config.siteAuthor }</strong> on Twitter</a>
+                      <br></br> <strong>{ config.siteAuthor }</strong> Twitter да</a>
                   </p>
                 </div>
               </div>
